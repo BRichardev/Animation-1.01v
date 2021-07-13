@@ -9,5 +9,6 @@
 
 Projeto da interface web em AngularJS do Ged
 
-![GitHub Logo](/img/Code Look.png)
-Format: ![Alt Text](url)
+<p align="center">
+  <img src="img/Code Look.png" width="1430" title="Type image, not a gif ">
+</p>
