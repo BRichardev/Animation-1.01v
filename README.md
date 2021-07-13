@@ -7,7 +7,7 @@
 
 ## 💻 Sobre o projeto <a name = "-sobre"></a>
 
-Projeto da interface web em AngularJS do Ged
+O projeto é a animação da digitação da frase "Olá, meu nome é Ricardo" e do fade/opacity da frase Bem-Vindo ao meu site, utilizando CSS/CSS3
 
 <p align="center">
   <img src="img/Code Look.png" width="1430" title="Type image, not a gif ">
